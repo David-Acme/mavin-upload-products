@@ -47,7 +47,7 @@ const CONFIG = {
 
   /** Conexión MySQL */
   DB: {
-    host: "147.79.78.220",
+    host: "localhost",
     port: 3306,
     user: "root",
     password: "!d*dR4*BOi744!",
