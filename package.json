@@ -1,0 +1,16 @@
+{
+  "name": "marvin-load-products",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "mysql2": "^3.18.2",
+    "xlsx": "^0.18.5"
+  }
+}
